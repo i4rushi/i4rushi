@@ -10,9 +10,9 @@ I bridge the gap between rigorous Data Structures logic and modern Deep Learning
 - **Upskilling:** Deepening my expertise in **MLOps** pipelines and **Edge AI** optimization for resource-constrained hardware.
 
 ### 🚀 Recently Shipped
-- **Autonomous Line Follower:** Engineered a vision pipeline using **ROS**, **OpenCV (HSV)**, and a **PID controller** to enable precise state estimation and autonomous navigation[cite: 34, 36, 37].
-- **Smart Expense Analyzer:** Built a data pipeline leveraging **Tesseract OCR** for text extraction and **Unsupervised Learning (Agglomerative Clustering)** to categorize financial data[cite: 40, 41].
-- **Sentiment Analysis Engine:** Designed a custom **Deep Learning architecture** (Embedding + Global Avg Pooling) to classify text with 85% accuracy after processing 20k+ samples[cite: 46, 47].
+- **Autonomous Line Follower:** Engineered a vision pipeline using **ROS**, **OpenCV (HSV)**, and a **PID controller** to enable precise state estimation and autonomous navigation.
+- **Smart Expense Analyzer:** Built a data pipeline leveraging **Tesseract OCR** for text extraction and **Unsupervised Learning (Agglomerative Clustering)** to categorize financial data.
+- **Sentiment Analysis Engine:** Designed a custom **Deep Learning architecture** (Embedding + Global Avg Pooling) to classify text with 85% accuracy after processing 20k+ samples.
 
 ### 👯 I’m looking to collaborate on
 - Scalable **Generative AI** workflows and **RAG** (Retrieval-Augmented Generation) architectures.
@@ -24,16 +24,16 @@ I bridge the gap between rigorous Data Structures logic and modern Deep Learning
 - Implementing robust **CI/CD pipelines** for automating model training.
 
 ### 🌱 I’m currently learning
-- **Probabilistic Statistics** and **Dynamic Programming** for algorithm optimization[cite: 28].
+- **Probabilistic Statistics** and **Dynamic Programming** for algorithm optimization.
 - Advanced **Transformer architectures** beyond standard BERT/GPT models.
-- **n8n** for advanced workflow automation and ETL processes[cite: 9].
+- **n8n** for advanced workflow automation and ETL processes.
 
 ### 💬 Ask me about
-- **Algorithmic Optimization:** As a TA, I love discussing asymptotic analysis, balanced trees, and graph traversal[cite: 22].
-- **AI Implementation:** Chat with me about fine-tuning AI agents, building custom architectures in **TensorFlow/Keras**, or validating mathematical proofs in **LaTeX**[cite: 17].
+- **Algorithmic Optimization:** As a TA, I love discussing asymptotic analysis, balanced trees, and graph traversal.
+- **AI Implementation:** Chat with me about fine-tuning AI agents, building custom architectures in **TensorFlow/Keras**, or validating mathematical proofs in **LaTeX**.
 
 ### ⚡ Fun fact
-I spent a summer acting as a human-in-the-loop evaluator for Generative AI, reviewing over **500+ responses weekly** in Calculus, Linear Algebra, and Python to rigorously train models to achieve 70%+ accuracy! [cite: 16]
+I spent a summer acting as a human-in-the-loop evaluator for Generative AI, reviewing over **500+ responses weekly** in Calculus, Linear Algebra, and Python to rigorously train models to achieve 70%+ accuracy! 
 
 ---
 
