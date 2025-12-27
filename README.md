@@ -10,8 +10,13 @@ I bridge the gap between rigorous Data Structures logic and modern Deep Learning
 - Implementing robust **MLOps** pipelines (CI/CD) for automating model training and deployment.
 
 ### 🌱 I’m currently learning
-- Deepening expertise in **Probabilistic Statistics** and **Dynamic Programming**. - Exploring advanced **Neural Network architectures** beyond standard CNNs for semantic segmentation. - Mastering **n8n** for advanced workflow automation. ### 💬 Ask me about
-- **Algorithmic Optimization:** As a Teaching Assistant for Data Structures (C/C++), I love discussing asymptotic analysis, balanced trees, and graph traversal. - **AI Implementation:** Chat with me about fine-tuning AI agents, building custom architectures in **TensorFlow/Keras**, or validating mathematical proofs in **LaTeX**. ### ⚡ Fun fact
+- Deepening expertise in **Probabilistic Statistics** and **Dynamic Programming**. - Exploring advanced **Neural Network architectures** beyond standard CNNs for semantic segmentation.
+- Mastering **n8n** for advanced workflow automation.
+
+### 💬 Ask me about
+- **Algorithmic Optimization:** As a Teaching Assistant for Data Structures (C/C++), I love discussing asymptotic analysis, balanced trees, and graph traversal. - **AI Implementation:** Chat with me about fine-tuning AI agents, building custom architectures in **TensorFlow/Keras**, or validating mathematical proofs in **LaTeX**.
+  
+### ⚡ Fun fact
 I spent a summer acting as a human-in-the-loop evaluator for Generative AI, reviewing over **500+ responses weekly** in Calculus, Linear Algebra, and Python to rigorously train models to achieve 70%+ accuracy! ---
 
 # 💻 Tech Stack
