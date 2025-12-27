@@ -1,75 +1,31 @@
+# ⚔️ Technical Arsenal
+
+### 🧠 Deep Learning & GenAI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-121212?style=for-the-badge&logo=llamaindex&logoColor=white)
+
+### 👁️ Computer Vision & Robotics
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0A2A.svg?style=for-the-badge&logo=ros&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![Point Cloud](https://img.shields.io/badge/Point%20Cloud-005571?style=for-the-badge&logo=pointcloud&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### 🛠️ Data Engineering & Science
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 📊 Databases & Visualization
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### ☁️ MLOps, Cloud & DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white)
+
+---
 # 💫 About Me
-### Aspiring Computer Engineer @ Purdue University | AI, ML & Data Engineering Specialist
+### AI Engineer & Data Specialist | Purdue University
+**I build scalable AI systems, from computer vision pipelines to LLM fine-tuning workflows.**
 
-I bridge the gap between rigorous Data Structures logic and modern Deep Learning applications. With professional experience as an **Intern Team Lead** and **AI Trainer**, I specialize in designing end-to-end **Data Pipelines**, fine-tuning **LLMs**, and building autonomous **Computer Vision** systems.
-
----
-
-### 🔭 I’m currently working on
-- **Mentoring Engineers:** As a **Teaching Assistant**, I guide students through advanced Data Structures & Algorithms (C/C++) and Graph Traversal logic[cite: 19, 22].
-- **Upskilling:** Deepening my expertise in **MLOps** pipelines and **Edge AI** optimization for resource-constrained hardware.
-
-### 🚀 Recently Shipped
-- **Autonomous Line Follower:** Engineered a vision pipeline using **ROS**, **OpenCV (HSV)**, and a **PID controller** to enable precise state estimation and autonomous navigation.
-- **Smart Expense Analyzer:** Built a data pipeline leveraging **Tesseract OCR** for text extraction and **Unsupervised Learning (Agglomerative Clustering)** to categorize financial data.
-- **Sentiment Analysis Engine:** Designed a custom **Deep Learning architecture** (Embedding + Global Avg Pooling) to classify text with 85% accuracy after processing 20k+ samples.
-
-### 👯 I’m looking to collaborate on
-- Scalable **Generative AI** workflows and **RAG** (Retrieval-Augmented Generation) architectures.
-- Open-source projects focused on **Ethical AI**, model transparency, and **Data Engineering**.
-- Projects requiring **Finite State Machine (FSM)** integration or complex decision-making logic.
-
-### 🤝 I’m looking for help with
-- **Edge AI** deployment techniques (e.g., Jetson Nano/Orin optimization).
-- Implementing robust **CI/CD pipelines** for automating model training.
-
-### 🌱 I’m currently learning
-- **Probabilistic Statistics** and **Dynamic Programming** for algorithm optimization.
-- Advanced **Transformer architectures** beyond standard BERT/GPT models.
-- **n8n** for advanced workflow automation and ETL processes.
-
-### 💬 Ask me about
-- **Algorithmic Optimization:** As a TA, I love discussing asymptotic analysis, balanced trees, and graph traversal.
-- **AI Implementation:** Chat with me about fine-tuning AI agents, building custom architectures in **TensorFlow/Keras**, or validating mathematical proofs in **LaTeX**.
-
-### ⚡ Fun fact
-I spent a summer acting as a human-in-the-loop evaluator for Generative AI, reviewing over **500+ responses weekly** in Calculus, Linear Algebra, and Python to rigorously train models to achieve 70%+ accuracy! 
-
----
-
-# 💻 Technical Arsenal
-
-### 🧠 AI, Deep Learning & NLP
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🛠 Data Engineering & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-### ☁️ MLOps, Cloud & Automation
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0A2A.svg?style=for-the-badge&logo=ros&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 💻 Core Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white)
+* **🔭 Current Focus:** Developing autonomous state estimation systems using **ROS & PID Control** and engineering automated data pipelines with **OCR & NLP**.
+* **🚀 Experience:** Ex-Team Lead & AI Trainer. I have rigorously evaluated 500+ AI responses/week and optimized business processes using **Generative AI agents**.
+* **🌱 Learning:** Advanced **MLOps** (CI/CD for ML), **Edge AI** optimization (Jetson/TensorRT), and **Transformer** architectures.
 
 ---
 
@@ -79,10 +35,6 @@ I spent a summer acting as a human-in-the-loop evaluator for Generative AI, revi
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=i4rushi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=i4rushi&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i4rushi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=i4rushi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=i4rushi&icon=0&color=11)](https://visitcount.itsvg.in)
