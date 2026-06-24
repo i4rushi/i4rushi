@@ -5,7 +5,6 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=i4rushi&label=Profile%20views&color=0969da&style=flat" alt="Profile views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=i4rushi.i4rushi&color=1f883d" alt="Visitors" />
 </p>
 
