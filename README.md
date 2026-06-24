@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Arushi </h1>
 
 <p align="left">
-  <b>AI Implementation @ Lilly</b> &nbsp;·&nbsp; building agentic AI &amp; LLM systems that ship.
+  <b>AI @ Lilly</b> &nbsp;·&nbsp; building agentic AI &amp; LLM systems that ship.
 </p>
 
 <p align="left">
